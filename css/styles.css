@@ -46,12 +46,11 @@ h1 {
     color: #0F172A; 
 }
 
-/* Step 3b & 3c: Remove top margin from h2 for consistent spacing */
 h2 {
     font-size: 1.75rem;      
     font-weight: 600;
     color: #2563EB; 
-    margin: 0 0 12px; /* Homework 3b & 3c */
+    margin: 0 0 12px; /* Homework 3b & 3c, removing the bottom margin */
 }
 
 h3 {
