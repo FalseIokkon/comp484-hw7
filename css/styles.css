@@ -24,7 +24,7 @@ body {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    margin: 0; /* Homework 3d */
+    margin: 20; /* Homework 3d */
 }
 
 /* Step 3a: Add padding to content wrap */
@@ -126,10 +126,10 @@ footer h2 {
 .contact-info a {
   padding: 10px;              /* Homework 3g */
   display: inline-block;      /* Homework 3g */
-  color: #333;
+  color: white;
   text-decoration: none; 
   font-weight: 500; 
-  transition: color 0.3s ease, text-decoration 0.3s ease; 
+  transition: color 0.3s ease, text-decoration 0.3s ease; /* Cool color fade in */
 }
 
 .contact-info a:hover {
@@ -137,9 +137,3 @@ footer h2 {
   text-decoration: underline; 
 }
 
-/* Work Experience
-------------------------------------*/
-
-
-/* Education
-------------------------------------*/
